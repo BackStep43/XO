@@ -1,3 +1,5 @@
+# Varuj Puymoontree   NO.6210400736
+# Jirawit Khuanwilai  NO.6210402372
 from socket import *
 import time
 
